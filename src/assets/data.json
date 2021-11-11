@@ -1,7 +1,34 @@
 {
     "data" :[
         {
-            "id":"1",
+            "id":7,
+            "title":"Spiderman: No Way Home",
+            "caption":"Spiderman No Way Home to be released on 17th December 2021",
+            "username":"hetshah23",
+            "img":"http://localhost:5000/public/2021-11-11T09-09-08.862Z3107_Spider-Man-No-Way-Home-1.jpg",
+            "community":"Marvel",
+            "timestamp":"1 hour ago"
+        },
+        {
+            "id":6,
+            "title":"",
+            "caption":"Eternals Didn’t Dazzle at the Box Office",
+            "username":"krakshil",
+            "img":"http://localhost:5000/public/2021-11-11T07-29-19.903ZSLH-25812_RC.jpg",
+            "community":"Marvel",
+            "timestamp":"2 hour ago"
+        },
+        {
+            "id":5,
+            "title":"International Break",
+            "caption":"Internation Breack from seasonal games starts 8 November 2021",
+            "username":"hetshah23",
+            "img":"",
+            "community":"Football",
+            "timestamp":"1 day ago"
+        },
+        {
+            "id":1,
             "title":"New Chapter!!!",
             "caption":"New chapter of solo leveling is out now",
             "username":"hetshah23",
@@ -10,7 +37,16 @@
             "timestamp":"1 day ago"
         },
         {
-            "id":"2",
+            "id":6,
+            "title":"Xavi to save FCB again!",
+            "caption":"Former FCB player joins the club as manager to save their sinking ship",
+            "username":"hetshah23",
+            "img":"http://localhost:5000/public/2021-11-11T07-35-54.621Zskysports-xavi-barca_5576500.jpg",
+            "community":"Football",
+            "timestamp":"2 day ago"
+        },
+        {
+            "id":2,
             "title":"Starlink Coming Soon",
             "caption":"Starlink set to step foot in India with its beta testing",
             "username":"anayp1999",
@@ -20,7 +56,7 @@
 
         },
         {
-            "id":"3",
+            "id":3,
             "title":"Announcement!",
             "caption":"Roit delays release of next patch. Plans to roll out 2 weeks later.",
             "username":"krakshil",
@@ -30,7 +66,7 @@
 
         },
         {
-            "id":"4",
+            "id":4,
             "title":"",
             "caption":"Ballon D'Or winner to be announced on 29th November 2021 at Theatre du Chatelet, Paris",
             "username":"hetshah23",
@@ -53,5 +89,86 @@
             "username":"krakshil",
             "comment":"I have no idea what you guys are talking about"
         }
-    ]
+    ],
+    "communityData":{
+        "posts":[
+            {
+                "id":5,
+                "title":"International Break",
+                "caption":"Internation Breack from seasonal games starts 8 November 2021",
+                "username":"hetshah23",
+                "img":"",
+                "community":"Football",
+                "timestamp":"1 day ago"
+            },
+            {
+                "id":6,
+                "title":"Xavi to save FCB again!",
+                "caption":"Former FCB player joins the club as manager to save their sinking ship",
+                "username":"hetshah23",
+                "img":"http://localhost:5000/public/2021-11-11T07-35-54.621Zskysports-xavi-barca_5576500.jpg",
+                "community":"Football",
+                "timestamp":"2 day ago"
+            },
+            {
+                "id":4,
+                "title":"",
+                "caption":"Ballon D'Or winner to be announced on 29th November 2021 at Theatre du Chatelet, Paris",
+                "username":"hetshah23",
+                "img":"http://localhost:5000/public/2021-11-11T03-38-59.898Zpost1.webp",
+                "community":"Football",
+                "timestamp":"1 week ago"
+            }
+        ],
+        "members":4,
+        "name":"Football",
+        "catagoty":"Sports",
+        "desc":"Daily football news on this community",
+        "profileImg": "http://localhost:5000/public/2021-11-11T07-21-35.706Zcommunity-prodile.jpg"
+    },
+    "userData":{
+        "posts":[
+            {
+                "id":7,
+                "title":"Spiderman: No Way Home",
+                "caption":"Spiderman No Way Home to be released on 17th December 2021",
+                "username":"hetshah23",
+                "img":"http://localhost:5000/public/2021-11-11T09-09-08.862Z3107_Spider-Man-No-Way-Home-1.jpg",
+                "community":"Marvel",
+                "timestamp":"1 hour ago"
+            },
+            {
+                "id":5,
+                "title":"International Break",
+                "caption":"Internation Breack from seasonal games starts 8 November 2021",
+                "username":"hetshah23",
+                "img":"",
+                "community":"Football",
+                "timestamp":"1 day ago"
+            },
+            {
+                "id":6,
+                "title":"Xavi to save FCB again!",
+                "caption":"Former FCB player joins the club as manager to save their sinking ship",
+                "username":"hetshah23",
+                "img":"http://localhost:5000/public/2021-11-11T07-35-54.621Zskysports-xavi-barca_5576500.jpg",
+                "community":"Football",
+                "timestamp":"2 day ago"
+            },
+            {
+                "id":4,
+                "title":"",
+                "caption":"Ballon D'Or winner to be announced on 29th November 2021 at Theatre du Chatelet, Paris",
+                "username":"hetshah23",
+                "img":"http://localhost:5000/public/2021-11-11T03-38-59.898Zpost1.webp",
+                "community":"Football",
+                "timestamp":"1 week ago"
+    
+            }
+        ],
+        "comminities":3,
+        "username":"hetshah23",
+        "desc":"This is my profile",
+        "profileImg": "http://localhost:5000/public/2021-10-29T14-22-03.259Z20190605_0800144.jpg"
+    }
 }

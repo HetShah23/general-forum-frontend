@@ -14,16 +14,16 @@ export const SinglePost = () => {
                 <div className="p-2 bd-highlight">
                     <div className="single-post d-flex flex-column bd-highlight mb-3">
                         <div className="p-2 bd-highlight post-header">
-                            <span className='community-name'>{data[3].community}</span> Posted By <span className='user-name'>{data[3].username}</span> <span className='timestamp'>{data[3].timestamp}</span>
+                            <span className='community-name'>{data[7].community}</span> Posted By <span className='user-name'>{data[7].username}</span> <span className='timestamp'>{data[7].timestamp}</span>
                         </div>
                         <div className="p-2 bd-highlight post-title">
-                            <h4>{data[3].title}</h4>
+                            <h4>{data[7].title}</h4>
                         </div>
                         <div className="p-2 bd-highlight">
-                            <img src={data[3].img} alt='post-img' className='post-img'></img>
+                            <img src={data[7].img} alt='post-img' className='post-img'></img>
                         </div>
                         <div className="p-2 bd-highlight text-area">
-                            <p>{data[3].caption}</p>
+                            <p>{data[7].caption}</p>
                         </div>
                         <div className="p-2 bd-highlight post-footer">
                             <div className="d-flex flex-row bd-highlight mb-3">
