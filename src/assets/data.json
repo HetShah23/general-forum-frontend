@@ -1,0 +1,57 @@
+{
+    "data" :[
+        {
+            "id":"1",
+            "title":"New Chapter!!!",
+            "caption":"New chapter of solo leveling is out now",
+            "username":"hetshah23",
+            "img":"http://localhost:5000/public/2021-11-11T02-55-07.622Zpost3.webp",
+            "community":"Anime",
+            "timestamp":"1 day ago"
+        },
+        {
+            "id":"2",
+            "title":"Starlink Coming Soon",
+            "caption":"Starlink set to step foot in India with its beta testing",
+            "username":"anayp1999",
+            "img":"http://localhost:5000/public/2021-11-11T03-01-29.599Zpost3.jpg",
+            "community":"Technology",
+            "timestamp":"3 day ago"
+
+        },
+        {
+            "id":"3",
+            "title":"Announcement!",
+            "caption":"Roit delays release of next patch. Plans to roll out 2 weeks later.",
+            "username":"krakshil",
+            "img":"",
+            "community":"Gaming",
+            "timestamp":"5 day ago"
+
+        },
+        {
+            "id":"4",
+            "title":"",
+            "caption":"Ballon D'Or winner to be announced on 29th November 2021 at Theatre du Chatelet, Paris",
+            "username":"hetshah23",
+            "img":"http://localhost:5000/public/2021-11-11T03-38-59.898Zpost1.webp",
+            "community":"Football",
+            "timestamp":"1 week ago"
+
+        }
+    ],
+    "comments": [
+        {
+            "username":"anay1999",
+            "comment":"Lewandowski deserves the Ballon D'Or"
+        },
+        {
+            "username":"hetshah23",
+            "comment":"No way Lewandowski is winning, Messi will win for sure"
+        },
+        {
+            "username":"krakshil",
+            "comment":"I have no idea what you guys are talking about"
+        }
+    ]
+}

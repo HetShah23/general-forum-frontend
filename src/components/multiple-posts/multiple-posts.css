@@ -1,0 +1,159 @@
+.multiple-posts{
+    background: #cbd5e0;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 3rem;
+}
+
+.multiple-posts .posts{
+    background: #f7fafc;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    width: 36rem;
+}
+
+a{
+    text-decoration: none;
+    color: #718096;
+}
+
+.community-name{
+    color: #718096;
+    font-weight: bold;
+}
+
+.timestamp{
+    font-style: italic;
+    font-size: small;
+}
+
+.img-area{
+    overflow: hidden;
+    height: 500px;
+}
+
+.post-img{
+    width: 100%;
+}
+
+.post-footer{
+    color: #718096;
+}
+
+.post-footer i{
+    margin-right: 0.5rem;
+}
+
+.post-interactions{
+    margin-right: 2rem;
+    padding: 0.4rem 1rem;
+}
+
+.post-interactions:hover{
+    background-color: #E2E8F0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.post-liked{
+    color: #ed4956;
+}
+
+.create{
+    background: #f7fafc;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    text-align: center;
+    align-items: center;
+}
+
+.create button{
+    border-radius: 1rem;
+    width: 15rem;
+    background: none;
+    outline: none;
+    border: none;
+    padding: 0.3rem;
+}
+
+.create-post{ 
+    background: #868a99 !important;
+}
+
+.create-community{
+    border: 2px solid #868a99 !important;
+    padding: 2.8px !important;
+}
+
+.user-profile-img{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border: 2px solid #868a99;
+}
+
+.user-stats{
+    border: 2px solid #868a99;
+    margin-bottom: 1rem;
+    border-radius: 2rem;
+    width: 15rem;
+    padding: 0.3rem 1.2rem !important;
+    text-align: left;
+}
+
+.user-stats span{
+    margin-right: 0.3rem;
+}
+
+.other-user-data{
+    font-style: italic;
+    color: #868a99;
+}
+
+.cummunity-name span{
+    font-style: italic;
+    color: #868a99;
+    font-size: small;
+}
+
+.create-post-form input[type=text] {
+    background: none;
+    border: none;
+    border-bottom: 2px solid #E2E8F0;
+    padding: 0rem 1rem;
+    width: 100%;
+    margin-bottom: 1.5rem;
+}
+
+.form-dropdown{
+    background: none;
+    border: none;
+    border-bottom: 2px solid #E2E8F0;
+    padding: 0rem 1rem;
+    width: 100%;
+    margin-bottom: 1.5rem;
+}
+
+.form-dropdown:focus{
+    outline: none;
+}
+
+.invisible{
+    display: none;
+}
+
+.previewProfilePic{
+    margin: 0.5 1rem;
+}
+
+.playerProfilePic_home_tile{
+    width: 100%;
+}
+
+input[type=file]{
+    margin-left: -7rem;
+    margin-bottom: 1rem;
+}
+
+.create-post-form small{
+    color: #ed4956;
+}
